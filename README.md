@@ -5,7 +5,7 @@ We log in github account to clone the phase-0-gps-1 but clicking clone or downlo
 We cloned the url with git clone
 we created a file called awesone-page.md with touch 
 Then we pushed the master with git push origin master 
-We checked the statusof our repository with git status
+We checked the status of our repository with git status
 we added/staged the awesome_page.md with git add
 We made a commit with git commit -m 
 We pushed the master with git push origin master
