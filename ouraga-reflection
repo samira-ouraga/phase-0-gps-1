@@ -1,0 +1,16 @@
+**What Git concepts were you struggling with prior to the GPS session?**
+
+>I was struggling with everything before the GPS session. The only actions that I knew how to do for sure was create a directory and create a file.  
+
+**What concepts were clarified during the GPS?
+What questions did you ask your pair and the guide?**
+
+1. The difference between feature branch and master branch.
+2. The importance of working on feature branch only before merging approved work to the master branch.
+3. How to merge a branch , pull requests, clone a repository.
+
+**What still confuses you about Git?**
+>My collaborator couldn't perform pull requests and merge even though he was listed as a collaborator. That was confusing. Also , I am confused about fetch and merge versus pull and merge.
+
+**How was your first experience of pairing in a GPS?**
+>Pairing with GPS was very instructive. We learned best by trial and errors. We communicated ideas, the driver and navigator did their role very well. It was a pleasant experience overall. 
